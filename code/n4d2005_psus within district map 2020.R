@@ -3,6 +3,8 @@ require(sf)
 require(purrr)
 require(tidyverse)
 
+path_nfhs <- "C:/Cloud/OneDrive - Emory University/data/dhs_program/IA/IAGE71FL"
+shp_nfhs <-  read_sf(paste0(path_nfhs))
 
 path_2020 <- "C:/Cloud/OneDrive - Emory University/data/India Shapefiles/india_shp_2020-master/district"
 shp_2020 <-  read_sf(paste0(path_2020))
