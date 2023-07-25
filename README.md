@@ -1,5 +1,8 @@
 # Mapping NFHS-4 unit-level data to 2020 administrative boundaries
 
+## Update:
+Use [nfhs5_on_map2016](https://github.com/jvargh7/nfhs5_on_map2016) for better documentation.
+
 ## Administrative Boundaries
 
 Map based on 2020 boundaries: Downloaded from [abhatia08](https://github.com/abhatia08/india_shp_2020).      
